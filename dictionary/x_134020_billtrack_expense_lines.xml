@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Expense Lines" max_length="40" name="x_134020_billtrack_expense_lines" type="collection">
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="New Expense Line" max_length="40" name="u_expense_line" type="string"/>
+        <element label="Expense Line Name" max_length="80" name="u_field_name_1" type="field_name"/>
+    </element>
+</database>

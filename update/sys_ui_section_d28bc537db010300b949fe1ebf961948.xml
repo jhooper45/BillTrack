@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="d28bc537db010300b949fe1ebf961948" sys_domain="global" table="x_134020_billtrack_expense_lines" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expense_line</element>
+            <position>0</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-13 16:26:11</sys_created_on>
+            <sys_id>c41c8177db010300b949fe1ebf96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_134020_billtrack_expense_lines" sys_domain="global" view="Default view">d28bc537db010300b949fe1ebf961948</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-13 16:26:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_134020_billtrack_expense_lines</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-13 16:23:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d28bc537db010300b949fe1ebf961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_134020_billtrack_expense_lines</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BillTracker" source="x_134020_billtrack">30aa8df3db010300b949fe1ebf96190b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BillTracker">30aa8df3db010300b949fe1ebf96190b</sys_scope>
+            <sys_update_name>sys_ui_section_d28bc537db010300b949fe1ebf961948</sys_update_name>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-13 16:23:52</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

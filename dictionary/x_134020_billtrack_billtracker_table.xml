@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="BillTracker Table" max_length="40" name="x_134020_billtrack_billtracker_table" type="collection"/>
+</database>

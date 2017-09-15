@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Expenses" max_length="40" name="x_134020_billtrack_expenses" type="collection">
+        <element label="Expense Line" max_length="32" name="expense_line" reference="x_134020_billtrack_expense_lines" type="reference"/>
+        <element attributes="omit_sys_original=true" default="0" label="Expense Amount" max_length="20" name="u_expense_amount" type="currency"/>
+        <element label="Expense Date" max_length="40" name="u_expense_date" type="glide_date"/>
+        <element label="Description" max_length="40" name="u_exp_desc" type="longint"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Total Expenses" max_length="20" name="u_p" type="price"/>
+        <element label="New Reference" max_length="32" name="u_reference_5" reference="x_134020_billtrack_expenses" type="reference"/>
+        <index name="index">
+            <element name="u_reference_5"/>
+        </index>
+        <index name="index2">
+            <element name="expense_line"/>
+        </index>
+    </element>
+</database>
