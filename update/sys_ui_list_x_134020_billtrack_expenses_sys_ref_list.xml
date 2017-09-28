@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>expense_line.u_expense_line</element>
-            <list_id display_value="x_134020_billtrack_expenses" element="NULL" name="x_134020_billtrack_expenses" parent="NULL" relationship="NULL" sys_domain="global" view="c890242070123200a21c0b893d8b5980">440b06b7db810300b949fe1ebf961968</list_id>
+            <list_id display_value="x_134020_billtrack_expenses" element="NULL" name="x_134020_billtrack_expenses" parent="NULL" relationship="NULL" sys_domain="global" view="5c962341dd2003003399d83d70be026c">440b06b7db810300b949fe1ebf961968</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -29,7 +29,6 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>jhooper</sys_created_by>
             <sys_created_on>2017-09-13 21:01:09</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>440b06b7db810300b949fe1ebf961968</sys_id>
@@ -37,13 +36,12 @@
             <sys_name>x_134020_billtrack_expenses</sys_name>
             <sys_package display_value="BillTracker" source="x_134020_billtrack">30aa8df3db010300b949fe1ebf96190b</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BillTracker">30aa8df3db010300b949fe1ebf96190b</sys_scope>
             <sys_update_name>sys_ui_list_x_134020_billtrack_expenses_sys_ref_list</sys_update_name>
             <sys_updated_by>jhooper</sys_updated_by>
             <sys_updated_on>2017-09-13 21:01:09</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">c890242070123200a21c0b893d8b5980</view>
+            <view display_value="Reference List" name="sys_ref_list">5c962341dd2003003399d83d70be026c</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
